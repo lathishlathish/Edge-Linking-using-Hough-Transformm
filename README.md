@@ -1,4 +1,4 @@
-# EXP 7: EDGE--LINKING-HOUGH-TRANSFORM
+# EXP 7: EDGE--LINKING-HOUGH-TRANSFORM:
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
